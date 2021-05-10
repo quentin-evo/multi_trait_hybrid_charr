@@ -3,6 +3,7 @@ R code used for the paper "Multivariate distributions of behavioural, morphologi
 
 -- In progress -- 
 
-get_P.R : Main steps to extract the phenotypic variance-covariance matrix of each type of cross and randomized matrices for common subspace analyses
+get_P.R : Main steps to extract the phenotypic variance-covariance matrix of each type of cross and randomized matrices for common subspace analyses 
+
 nonoverlapping-ci.R : Function to extract non-overlapping 95CrIs between crosses (for the elements of P)
 
