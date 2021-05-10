@@ -1,3 +1,9 @@
+library(tidyr)
+library(MCMCglmm)
+library(ggplot2)
+library(plyr)
+library(gridExtra)
+library(tidybayes)
 
 ### Set priors
 p.big.t<-list(G=list(
