@@ -1,5 +1,6 @@
 # multi_trait_hybrid_charr
-R code used for the paper 
+R code used for the paper: 
+
 Horta-Lacueva, Q.JB., Snorrason, S.S., Morrissey, M.B. et al. Multivariate analysis of morphology, behaviour, growth and developmental timing in hybrids brings new insights into the divergence of sympatric Arctic charr morphs. BMC Ecol Evo 21, 170 (2021). 
 https://doi.org/10.1186/s12862-021-01904-8
 
